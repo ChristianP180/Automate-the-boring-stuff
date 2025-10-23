@@ -1,1 +1,1 @@
-# Automate-the-boring-stuff
+# Automate-the-boring-stuff project was based on the content in chapter 7 in Automate the Boring Stuff. This is a password checker and it tells you the strength of the password based on the rules and criteria of what was met. It's very easy to use. You can just look at the rules and type any password you want and see what it says. 
